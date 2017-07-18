@@ -1,0 +1,8 @@
+C:\Users\skyfe\Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Release\MapEditor.exe
+C:\Users\skyfe\Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Release\MapEditor.pdb
+C:\Users\skyfe\Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\skyfe\Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Release\MapEditor.frmMapEditor.resources
+C:\Users\skyfe\Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Release\MapEditor.Properties.Resources.resources
+C:\Users\skyfe\Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Release\MapEditor.csproj.GenerateResource.Cache
+C:\Users\skyfe\Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Release\MapEditor.exe
+C:\Users\skyfe\Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Release\MapEditor.pdb
